@@ -1,3 +1,3 @@
-export default function App() {
-  return <div>hello</div>
+export default function Page() {
+  return <div>Home!</div>
 }
